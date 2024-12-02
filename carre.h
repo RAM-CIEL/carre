@@ -1,4 +1,6 @@
 #pragma once
+
+#include <iostream>
 class CCarre
 {
 
@@ -17,5 +19,11 @@ public :
 	void Setcote(int cote1);
 
 	void Afficher();
+
+	int Getsx();
+
+	int Getsy();
+
+	int GetCote();
 };
 
