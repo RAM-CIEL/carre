@@ -4,7 +4,7 @@ using namespace std;
 void CCarre::Setsx(int sx1)
 {
 	this->sx = sx1;
-	cout << "?? : je suis gay ";
+	cout << "?? :  ";
 	cin >> sx;
 }
 
